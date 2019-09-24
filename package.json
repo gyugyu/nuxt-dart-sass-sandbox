@@ -13,6 +13,6 @@
   "dependencies": {
     "nuxt": "^2.9.2",
     "sass": "^1.23.0-module.beta.1",
-    "sass-loader": "^8.0.0"
+    "sass-loader": "github:gyugyu/sass-loader"
   }
 }

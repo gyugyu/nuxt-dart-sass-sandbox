@@ -7,5 +7,6 @@
 
 div {
   color: variables.$font-color;
+  background: green;
 }
 </style>
