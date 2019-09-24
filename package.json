@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "dev": "nuxt",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -11,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "nuxt": "^2.9.2",
-    "sass": "^1.23.0-module.beta.1"
+    "sass": "^1.23.0-module.beta.1",
+    "sass-loader": "^8.0.0"
   }
 }
