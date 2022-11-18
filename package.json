@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "nuxt": "^2.9.2",
+    "nuxt": "^2.15.8",
     "sass": "^1.23.0-module.beta.1",
     "sass-loader": "github:gyugyu/sass-loader"
   }
